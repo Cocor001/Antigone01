@@ -2,6 +2,7 @@ Farbpalette
 
 Rot
 Grün
+Hellgrün
 Blau
 Gelb
 Magenta
